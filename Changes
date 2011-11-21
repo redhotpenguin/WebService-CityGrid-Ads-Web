@@ -1,0 +1,6 @@
+Revision history for Perl extension WebService-CityGrid-Ads-Web.
+
+0.01  Mon Nov 14 23:14:12 2011
+	- original version; created by h2xs 1.23 with options
+		-X WebService-CityGrid-Ads-Web
+

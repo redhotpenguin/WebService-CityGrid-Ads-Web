@@ -11,8 +11,8 @@ has 'what'          => ( is => 'ro', isa => 'Str', required => 1 );
 has 'where'         => ( is => 'ro', isa => 'Str', required => 1 );
 has 'width'         => ( is => 'ro', isa => 'Str', required => 1 );
 has 'height'        => ( is => 'ro', isa => 'Str', required => 1 );
-has 'lat'           => ( is => 'ro', isa => 'Str', required => 1 );
-has 'lon'           => ( is => 'ro', isa => 'Str', required => 1 );
+#has 'lat'           => ( is => 'ro', isa => 'Str', required => 1 );
+#has 'lon'           => ( is => 'ro', isa => 'Str', required => 1 );
 
 use constant DEBUG => $ENV{CG_DEBUG} || 0;
 

@@ -3,4 +3,4 @@ Makefile.PL
 MANIFEST
 README
 t/WebService-CityGrid-Ads-Web.t
-lib/WebService-CityGrid-Ads-Web.pm
+lib/WebService/CityGrid/Ads/Web.pm
